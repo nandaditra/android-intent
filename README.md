@@ -1,2 +1,0 @@
-# android-intent
-android intent
